@@ -1,0 +1,28 @@
+2024-12-11 20:43:35,018 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-11 20:43:35,175 - MainThread - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,176 - Thread-1 (MotorTry) - MotorTry - DEBUG - Debut Thread
+2024-12-11 20:43:35,176 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,176 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-11 20:43:35,180 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,282 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,283 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,384 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,386 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,488 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,489 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,590 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,591 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,692 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,693 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,795 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,796 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,897 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:35,898 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:35,999 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:36,000 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:36,102 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:36,103 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:36,204 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:43:36,205 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:43:36,282 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-11 20:43:36,308 - MainThread - <module> - INFO - Fin du programme

@@ -1,0 +1,17 @@
+2024-12-27 16:26:05,047 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-27 16:26:05,241 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-27 16:26:13,409 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:14,856 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:15,787 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:22,499 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:31,182 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:31,842 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:32,061 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:36,468 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:37,328 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:37,532 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:37,752 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:38,350 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:26:38,538 - MainThread - SimuTry - DEBUG - Debut Thread
+2024-12-27 16:27:16,457 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-27 16:27:16,473 - MainThread - <module> - INFO - Fin du programme

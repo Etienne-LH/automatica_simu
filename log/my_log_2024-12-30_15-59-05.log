@@ -1,0 +1,5 @@
+2024-12-30 15:59:05,863 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-30 15:59:05,885 - MainThread - importSimu - INFO - Imported MotorConfig from Simulateur.SimuConfigs.MotorConfig
+2024-12-30 15:59:06,084 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-30 15:59:08,840 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-30 15:59:08,877 - MainThread - <module> - INFO - Fin du programme

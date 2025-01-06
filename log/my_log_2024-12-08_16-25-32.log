@@ -1,0 +1,10 @@
+2024-12-08 16:25:32,004 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-08 16:25:32,063 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-08 16:25:32,175 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 16:25:32,175 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 16:25:32,175 - Thread-1 (doSomething) - draw - DEBUG - On dessine le robot
+2024-12-08 16:25:32,175 - Thread-1 (doSomething) - draw - DEBUG - On charge l'image du robot
+2024-12-08 16:25:32,176 - Thread-1 (doSomething) - draw - DEBUG - On redimensionne l'image du robot
+2024-12-08 16:25:32,178 - Thread-1 (doSomething) - draw - DEBUG - On change l'orientation l'image du robot
+2024-12-08 16:25:32,180 - Thread-1 (doSomething) - draw - DEBUG - On creer l'imageTK du robot
+2024-12-08 16:25:32,207 - Thread-1 (doSomething) - draw - DEBUG - On creer l'image du robot sur le canva

@@ -1,0 +1,13 @@
+2024-12-08 17:39:22,567 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-08 17:39:22,628 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-08 17:39:22,628 - MainThread - updateUi - DEBUG - On charge l'image du robot
+2024-12-08 17:39:22,634 - MainThread - updateUi - DEBUG - On redimensionne l'image du robot
+2024-12-08 17:39:22,636 - MainThread - updateUi - DEBUG - On change l'orientation l'image du robot
+2024-12-08 17:39:22,636 - MainThread - updateUi - DEBUG - On creer l'imageTK du robot
+2024-12-08 17:39:22,641 - MainThread - updateUi - DEBUG - On creer l'image du robot sur le canva
+2024-12-08 17:39:23,649 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:39:24,662 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:39:25,663 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:39:26,664 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:39:26,954 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-08 17:39:26,968 - MainThread - <module> - INFO - Fin du programme

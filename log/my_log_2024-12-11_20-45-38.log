@@ -1,0 +1,164 @@
+2024-12-11 20:45:38,351 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-11 20:45:38,508 - MainThread - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:38,509 - Thread-1 (MotorTry) - MotorTry - DEBUG - Debut Thread
+2024-12-11 20:45:38,509 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:38,509 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-11 20:45:38,510 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,515 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:38,567 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,613 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,616 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:38,617 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:38,644 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,679 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,718 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:38,718 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:38,721 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,752 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,782 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,813 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,819 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:38,822 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:38,843 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,874 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,905 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,922 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:38,923 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:38,935 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,966 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:38,997 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,023 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,024 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,028 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,059 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,090 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,121 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,125 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,126 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,152 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,183 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,214 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,226 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,227 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,245 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,275 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,306 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,327 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,328 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,335 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,368 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,399 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,429 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,429 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,431 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,459 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,490 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,521 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,532 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,535 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,553 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,583 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,613 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,635 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,636 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,644 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,675 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,705 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,736 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,738 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,740 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,767 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,798 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,829 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,840 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,841 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,860 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,890 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,921 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,941 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:39,942 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:39,952 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:39,983 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,014 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,042 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,043 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,045 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,072 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,106 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,136 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,143 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,144 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,167 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,197 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,224 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,245 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,245 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,255 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,287 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,319 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,346 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,346 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,351 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,381 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,412 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,443 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,448 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,450 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,474 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,503 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,535 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,550 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,551 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,567 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,598 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,628 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,651 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,652 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,659 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,690 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,720 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,751 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,753 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,755 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,782 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,812 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,843 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,855 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,856 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,874 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,904 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,935 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,957 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:40,957 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:40,964 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:40,995 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,027 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,058 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:41,059 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,061 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:41,089 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,120 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,150 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,162 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:41,164 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:41,181 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,212 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,243 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,264 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:41,265 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:41,274 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,304 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,335 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,366 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:41,366 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,368 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:41,397 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,428 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,459 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,470 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:41,472 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:41,489 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-11 20:45:41,572 - Thread-1 (MotorTry) - MotorTry - DEBUG - Nouvelle boucle
+2024-12-11 20:45:41,574 - Thread-1 (MotorTry) - update - DEBUG - Update vaue de la courbe
+2024-12-11 20:45:41,588 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-11 20:45:41,674 - MainThread - <module> - INFO - Fin du programme

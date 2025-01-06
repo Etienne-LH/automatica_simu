@@ -1,0 +1,49 @@
+2024-12-22 19:35:32,775 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-22 19:35:33,036 - MainThread - update - DEBUG - Update vaue de la courbe
+2024-12-22 19:35:33,068 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-22 19:35:33,068 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,178 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,264 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,342 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,419 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,492 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,560 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,623 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,701 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,780 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,843 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,927 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:33,998 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,091 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,162 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,242 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,316 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,403 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,475 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,562 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,628 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,708 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,765 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,827 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:34,890 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,181 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,273 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,349 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,418 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,476 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,555 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,602 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,696 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,758 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,837 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,899 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:35,962 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,024 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,087 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,149 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,212 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,275 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,353 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,415 - MainThread - updateUi - DEBUG - Reset de l'affichage de la courbe
+2024-12-22 19:35:36,605 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-22 19:35:36,675 - MainThread - <module> - INFO - Fin du programme

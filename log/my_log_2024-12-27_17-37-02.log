@@ -1,0 +1,5 @@
+2024-12-27 17:37:02,375 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-27 17:37:02,578 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-27 17:37:11,298 - MainThread - startSimulation - DEBUG - Start simu clicked
+2024-12-27 17:37:18,274 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-27 17:37:18,311 - MainThread - <module> - INFO - Fin du programme

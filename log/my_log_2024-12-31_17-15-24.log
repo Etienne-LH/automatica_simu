@@ -1,0 +1,10 @@
+2024-12-31 17:15:24,712 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-31 17:15:24,734 - MainThread - importSimu - INFO - Imported MotorConfig from Simulateur.SimuConfigs.MotorConfig
+2024-12-31 17:15:24,933 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-31 17:15:24,933 - MainThread - updateUi - DEBUG - On charge l'image du module
+2024-12-31 17:15:24,933 - MainThread - updateUi - DEBUG - On redimensionne l'image du module
+2024-12-31 17:15:24,933 - MainThread - updateUi - DEBUG - On change l'orientation l'image du module
+2024-12-31 17:15:24,933 - MainThread - updateUi - DEBUG - On creer l'imageTK du module
+2024-12-31 17:15:24,933 - MainThread - updateUi - DEBUG - On creer l'image du module sur le canva
+2024-12-31 17:15:27,120 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-31 17:15:27,145 - MainThread - <module> - INFO - Fin du programme

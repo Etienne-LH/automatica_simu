@@ -1,0 +1,7 @@
+2024-12-08 17:37:48,987 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-08 17:37:49,047 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-08 17:37:49,048 - MainThread - updateUi - DEBUG - On charge l'image du robot
+2024-12-08 17:37:49,053 - MainThread - updateUi - DEBUG - On redimensionne l'image du robot
+2024-12-08 17:37:49,054 - MainThread - updateUi - DEBUG - On change l'orientation l'image du robot
+2024-12-08 17:37:49,055 - MainThread - updateUi - DEBUG - On creer l'imageTK du robot
+2024-12-08 17:37:49,058 - MainThread - updateUi - DEBUG - On creer l'image du robot sur le canva

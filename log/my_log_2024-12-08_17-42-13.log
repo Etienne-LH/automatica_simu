@@ -1,0 +1,1461 @@
+2024-12-08 17:42:13,607 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-08 17:42:13,667 - Thread-1 (doSomething) - doSomething - DEBUG - Debut Thread
+2024-12-08 17:42:13,668 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-08 17:42:13,668 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:13,669 - MainThread - updateUi - DEBUG - On charge l'image du robot
+2024-12-08 17:42:13,669 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,669 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,669 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,671 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,671 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : speed
+2024-12-08 17:42:13,671 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,671 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,672 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,672 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,672 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,672 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,672 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,673 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,673 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,674 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,674 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,674 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,674 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,674 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,676 - MainThread - updateUi - DEBUG - On redimensionne l'image du robot
+2024-12-08 17:42:13,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,677 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,677 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,677 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,677 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,677 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,677 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,677 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,678 - MainThread - updateUi - DEBUG - On change l'orientation l'image du robot
+2024-12-08 17:42:13,678 - MainThread - updateUi - DEBUG - On creer l'imageTK du robot
+2024-12-08 17:42:13,681 - MainThread - updateUi - DEBUG - On creer l'image du robot sur le canva
+2024-12-08 17:42:13,778 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:13,778 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,778 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,778 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,778 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,779 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,779 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,779 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,779 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,779 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,779 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,780 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,780 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,780 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,780 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,780 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,780 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,781 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,781 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,781 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,781 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,781 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,781 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,781 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,882 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:13,882 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,882 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,882 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,882 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,883 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,883 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,883 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,883 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,883 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,883 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,883 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,884 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,885 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,885 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,885 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,985 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:13,985 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,986 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,986 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,986 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,986 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,986 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,986 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,987 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:13,988 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,089 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,089 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,089 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,089 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,089 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,090 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,091 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,092 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,092 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,092 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,192 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,192 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,193 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,193 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,193 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,193 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,193 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,193 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,193 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,194 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,195 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,195 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,195 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,195 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,195 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,195 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,195 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,295 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,295 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,296 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,296 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,296 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,296 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,296 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,296 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,296 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,297 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,398 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,398 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,398 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,398 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,398 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,399 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,399 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,399 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,399 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,399 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,399 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,399 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,400 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,400 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,400 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,400 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,400 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,400 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,501 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,501 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,501 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,501 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,501 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,501 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,502 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,503 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,503 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,503 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,503 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,603 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,603 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,603 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,604 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,605 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,605 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,605 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,605 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,605 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,605 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,605 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,706 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,706 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,706 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,706 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,707 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,707 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,707 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,707 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,707 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,707 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,707 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,708 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,708 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,708 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,708 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,708 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,708 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,708 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,809 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,809 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,809 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,809 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,809 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,810 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,810 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,810 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,810 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,810 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,810 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,810 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,811 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,811 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,811 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,811 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,811 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,811 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,911 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:14,911 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,912 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,912 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,912 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,912 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,912 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,913 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,913 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,913 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,913 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,913 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:14,913 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,914 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,914 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:14,914 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:14,914 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:14,914 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,014 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,014 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,014 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,015 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,015 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,015 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,015 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,015 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,015 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,015 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,016 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,117 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,117 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,117 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,117 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,117 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,117 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,118 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,118 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,118 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,118 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,118 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,119 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,119 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,119 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,119 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,119 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,119 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,119 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,220 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,220 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,220 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,220 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,221 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,221 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,221 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,221 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,221 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,221 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,221 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,222 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,222 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,222 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,222 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,222 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,222 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,222 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,322 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,322 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,322 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,322 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,323 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,323 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,323 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,323 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,323 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,323 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,323 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,324 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,324 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,324 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,324 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,324 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,324 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,324 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,425 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,425 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,425 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,425 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,425 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,426 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,426 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,426 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,426 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,426 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,426 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,426 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,427 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,427 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,427 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,427 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,427 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,427 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,527 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,527 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,528 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,528 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,528 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,528 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,528 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,528 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,528 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,529 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,630 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,630 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,630 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,630 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,630 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,631 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,632 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,632 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,632 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,632 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,632 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,732 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,732 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,733 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,733 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,733 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,733 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,733 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,733 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,734 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,835 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,835 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,835 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,835 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,835 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,836 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,837 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,837 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,837 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,837 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,837 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,938 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:15,938 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,938 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,938 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,938 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,938 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,939 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,940 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:15,940 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:15,940 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:15,940 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,041 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,041 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,041 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,041 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,041 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,042 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,042 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,042 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,042 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,042 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,042 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,042 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,043 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,043 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,043 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,043 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,043 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,043 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,143 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,143 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,144 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,145 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,246 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,246 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,246 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,246 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,246 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,247 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,247 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,247 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,247 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,247 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,247 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,247 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,248 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,248 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,248 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,248 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,248 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,248 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,348 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,348 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,349 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,349 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,349 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,349 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,349 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,349 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,350 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,451 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,451 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,452 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,452 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,452 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,452 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,453 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,454 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,454 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,454 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,555 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,555 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,555 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,555 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,555 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,556 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,556 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,556 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,556 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,556 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,556 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,556 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,557 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,557 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,557 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,557 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,557 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,557 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,657 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,657 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,657 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,658 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,659 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,659 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,659 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,659 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,659 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,659 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,659 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,760 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,760 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,760 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,760 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,760 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,761 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,761 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,761 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,761 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,761 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,761 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,761 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,762 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,762 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,762 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,762 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,762 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,762 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,862 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,862 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,863 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,863 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,863 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,863 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,863 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,863 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,863 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,864 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,965 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:16,965 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,965 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,965 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,965 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,966 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,966 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,966 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,966 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,966 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,966 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,966 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:16,967 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,967 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,967 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:16,967 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:16,967 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:16,967 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,067 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,067 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,069 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,170 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,170 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,170 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,170 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,170 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,171 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,172 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,172 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,172 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,172 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,172 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,273 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,273 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,273 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,273 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,273 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,273 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,274 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,275 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,275 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,275 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,275 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,375 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,375 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,376 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,376 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,376 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,376 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,376 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,376 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,376 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,377 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,378 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,478 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,478 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,478 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,479 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,480 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,480 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,480 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,480 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,480 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,480 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,480 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,581 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,581 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,581 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,581 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,581 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,582 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,582 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,582 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,582 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,582 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,582 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,582 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,583 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,583 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,583 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,583 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,583 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,583 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,683 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,683 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,684 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,684 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,684 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,684 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,684 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,684 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,684 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,685 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,786 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:17,786 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,786 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,786 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,786 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,787 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,787 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,787 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,787 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,787 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,787 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,787 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:17,788 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,788 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,788 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,788 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:17,788 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:17,788 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:17,888 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,135 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,136 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,136 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,136 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,136 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,136 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,137 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,138 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,138 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,138 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,238 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,238 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,238 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,238 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,238 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,239 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,239 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,239 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,239 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,239 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,239 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,239 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,240 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,240 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,240 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,240 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,240 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,240 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,340 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,340 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,341 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,342 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,443 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,443 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,443 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,443 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,444 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,445 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,445 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,445 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,445 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,445 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,445 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,546 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,546 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,546 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,546 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,546 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,546 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,547 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,548 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,548 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,548 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,648 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,648 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,649 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,649 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,649 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,649 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,649 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,649 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,649 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,650 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,751 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,751 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,751 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,751 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,751 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,752 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,752 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,752 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,752 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,752 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,752 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,753 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,753 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,753 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,753 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,753 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,753 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,753 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,854 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,854 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,854 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,854 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,854 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,854 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,855 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,855 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,855 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,855 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,855 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,855 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,855 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,856 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,856 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,856 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,856 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,856 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,956 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:21,956 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,957 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,957 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,957 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,957 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,957 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,957 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,957 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:21,958 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,059 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,059 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,059 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,059 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,059 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,060 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,060 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,060 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,060 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,060 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,060 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,060 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,061 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,061 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,061 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,061 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,061 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,061 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,161 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,161 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,161 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,162 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,162 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,162 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,162 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,162 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,162 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,162 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,163 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,264 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,264 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,264 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,264 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,264 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,264 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,265 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,266 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,266 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,266 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,266 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,366 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,366 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,367 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,367 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,367 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,367 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,367 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,367 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,367 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,368 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,469 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,469 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,469 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,469 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,470 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,470 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,470 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,470 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,470 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,470 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,470 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,471 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,471 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,471 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,471 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,471 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,471 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,471 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,572 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,572 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,572 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,572 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,572 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,572 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,573 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,573 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,573 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,573 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,573 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,573 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,573 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,574 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,574 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,574 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,574 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,574 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,674 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,674 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,675 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,675 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,675 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,676 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,777 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,777 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,777 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,777 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,777 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,777 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,778 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,779 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,779 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,779 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,779 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,879 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:22,879 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,879 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,879 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,880 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:22,881 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,881 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,881 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,881 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:22,881 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:22,881 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:22,982 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:23,334 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,335 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,335 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,336 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,336 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,336 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,336 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,336 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,336 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,337 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,438 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:23,438 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,438 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,438 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,438 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,439 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,440 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,440 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,440 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,440 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,440 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,540 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:23,540 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,540 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,541 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,541 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,541 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,541 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,541 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,541 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,542 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,643 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:23,643 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,643 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,643 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,643 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,643 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,644 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,645 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,645 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,645 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,745 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:23,745 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,745 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,745 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,745 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,745 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,746 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,746 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,746 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,746 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,746 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,746 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,746 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,747 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,747 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,747 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,747 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,747 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,847 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:23,847 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,848 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,849 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,849 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,849 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,849 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,849 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,849 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,849 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,850 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,950 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:23,950 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,951 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,951 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,951 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,951 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,951 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,951 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,951 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:23,952 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,053 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,053 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,053 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,053 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,053 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,054 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,055 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,055 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,055 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,055 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,155 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,155 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,156 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,156 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,156 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,156 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,156 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,156 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,156 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,157 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,258 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,258 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,258 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,259 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,259 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,259 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,259 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,259 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,259 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,260 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,361 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,361 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,361 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,361 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,361 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,361 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,362 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,363 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,363 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,363 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,363 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,463 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,463 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,464 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,464 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,464 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,464 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,464 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,464 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,464 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,465 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,566 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,566 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,566 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,566 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,566 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,566 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,567 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,567 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,567 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,567 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,567 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,567 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,567 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,568 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,568 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,568 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,568 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,568 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,668 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,668 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,669 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,669 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,669 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,669 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,669 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,669 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,669 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,670 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,771 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,771 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,771 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,771 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,771 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,772 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,773 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,773 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,773 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,773 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,773 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,874 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,874 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,874 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,874 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,874 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,874 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,875 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,876 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,876 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,876 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,976 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:24,976 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,977 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,977 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,977 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,977 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,977 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,977 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:24,978 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:24,979 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:25,079 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:25,079 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:25,079 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:25,079 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:25,079 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,079 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,080 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,080 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,080 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,080 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,080 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,080 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,080 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:25,081 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:25,081 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:25,081 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:25,081 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:25,081 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:25,182 - Thread-1 (doSomething) - doSomething - DEBUG - Nouvelle boucle
+2024-12-08 17:42:25,182 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:25,182 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:25,182 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,183 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:42:25,184 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:25,184 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:25,184 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:42:25,184 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:42:25,184 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:42:25,184 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs

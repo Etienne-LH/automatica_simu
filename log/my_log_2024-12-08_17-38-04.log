@@ -1,0 +1,43 @@
+2024-12-08 17:38:04,300 - MainThread - <module> - INFO - Initialisation du logger
+2024-12-08 17:38:04,359 - MainThread - afficher - INFO - Affichage de la fenetre
+2024-12-08 17:38:04,359 - MainThread - updateUi - DEBUG - On charge l'image du robot
+2024-12-08 17:38:04,364 - MainThread - updateUi - DEBUG - On redimensionne l'image du robot
+2024-12-08 17:38:04,365 - MainThread - updateUi - DEBUG - On change l'orientation l'image du robot
+2024-12-08 17:38:04,365 - MainThread - updateUi - DEBUG - On creer l'imageTK du robot
+2024-12-08 17:38:04,369 - MainThread - updateUi - DEBUG - On creer l'image du robot sur le canva
+2024-12-08 17:38:05,382 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:06,384 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:07,399 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:08,416 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:09,418 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:10,418 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:11,430 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:12,436 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:13,436 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:14,437 - MainThread - updateUi - DEBUG - On bouge l'image robot sur le canva. dx = 0, dy = 0, imf = 1
+2024-12-08 17:38:15,055 - MainThread - onClose - INFO - Fermeture de la fenetre
+2024-12-08 17:38:15,061 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:38:15,062 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:38:15,062 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:38:15,062 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,062 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : speed
+2024-12-08 17:38:15,063 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,063 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,063 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,063 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,063 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,063 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,064 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,065 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,066 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,067 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,067 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,068 - Thread-1 (doSomething) - updfcn - DEBUG - Boucle d'entrée
+2024-12-08 17:38:15,069 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:38:15,070 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:38:15,072 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:38:15,072 - Thread-1 (doSomething) - outfcn - DEBUG - Boucle de sortie
+2024-12-08 17:38:15,073 - Thread-1 (doSomething) - notify - DEBUG - Envoie d'un message à l'observeur : state
+2024-12-08 17:38:15,073 - Thread-1 (doSomething) - updateValues - DEBUG - Le RobotUi prend connaissance des nouvelles valeurs
+2024-12-08 17:38:15,083 - MainThread - <module> - INFO - Fin du programme
