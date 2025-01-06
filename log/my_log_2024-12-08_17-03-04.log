@@ -1,4 +1,0 @@
-2024-12-08 17:03:04,554 - MainThread - <module> - INFO - Initialisation du logger
-2024-12-08 17:03:04,795 - MainThread - afficher - INFO - Affichage de la fenetre
-2024-12-08 17:03:12,711 - MainThread - onClose - INFO - Fermeture de la fenetre
-2024-12-08 17:03:12,717 - MainThread - <module> - INFO - Fin du programme
